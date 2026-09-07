@@ -1,0 +1,19 @@
+{
+  "levelName": "Level 8: ZigZag Alley",
+  "ballSpeed": 8.5,
+  "paddleSpeed": 7.5,
+  "paddleWidth": 75,
+  "background": "grid.jpg",
+  "blocksLayout": [
+    "Y---------",
+    "-O--------",
+    "--R-------",
+    "---B------",
+    "----W-----",
+    "-----C----",
+    "------P---",
+    "-------O--",
+    "--------R-",
+    "---------Y"
+  ]
+}

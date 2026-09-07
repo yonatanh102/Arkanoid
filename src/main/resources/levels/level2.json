@@ -1,0 +1,14 @@
+{
+  "levelName": "Level 2: The Pyramid",
+  "ballSpeed": 5.5,
+  "paddleSpeed": 6.0,
+  "paddleWidth": 110,
+  "background": "color.jpg",
+  "blocksLayout": [
+    "----R----",
+    "---OOO---",
+    "--YYYYY--",
+    "-GGGGGGG-",
+    "BBBBBBBBB"
+  ]
+}

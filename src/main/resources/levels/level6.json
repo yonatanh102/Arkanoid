@@ -1,0 +1,16 @@
+{
+  "levelName": "Level 6: Heartbeat",
+  "ballSpeed": 7.5,
+  "paddleSpeed": 7.0,
+  "paddleWidth": 90,
+  "background": "pink.jpg",
+  "blocksLayout": [
+    "-PP----PP-",
+    "PPPP--PPPP",
+    "ORRRPPRRRO",
+    "-ORRPPRRO-",
+    "--ORPPRO--",
+    "---YPPY---",
+    "----YY----"
+  ]
+}

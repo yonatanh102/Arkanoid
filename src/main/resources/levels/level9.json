@@ -1,0 +1,18 @@
+{
+  "levelName": "Level 9: The Diamond",
+  "ballSpeed": 9.0,
+  "paddleSpeed": 8.0,
+  "paddleWidth": 70,
+  "background": "crystal.jpg",
+  "blocksLayout": [
+    "----W----",
+    "---CRC---",
+    "--CRCOC--",
+    "-CRCBCOC-",
+    "WRCBCBCOW",
+    "-CPCBCGC-",
+    "--CPCGC--",
+    "---CGC---",
+    "----W----"
+  ]
+}

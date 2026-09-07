@@ -1,0 +1,15 @@
+{
+  "levelName": "Level 7: Twin Towers",
+  "ballSpeed": 8.0,
+  "paddleSpeed": 7.5,
+  "paddleWidth": 80,
+  "background": "neon.jpg",
+  "blocksLayout": [
+    "-CB----CB-",
+    "-BC----BC-",
+    "-CB----CB-",
+    "-BC----BC-",
+    "-CB----CB-",
+    "-BC----BC-"
+  ]
+}

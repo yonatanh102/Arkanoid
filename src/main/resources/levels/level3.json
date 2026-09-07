@@ -1,0 +1,16 @@
+{
+  "levelName": "Level 3: Space Invader",
+  "ballSpeed": 6.0,
+  "paddleSpeed": 6.5,
+  "paddleWidth": 100,
+  "background": "green.jpg",
+  "blocksLayout": [
+    "---R----R---",
+    "----BBBB----",
+    "--CCGCCGCC--",
+    "-CC-CRC-CC-",
+    "-CCCRRRRCCC-",
+    "---C----C---",
+    "--C------C--"
+  ]
+}

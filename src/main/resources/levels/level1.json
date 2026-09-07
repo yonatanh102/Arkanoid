@@ -1,0 +1,14 @@
+{
+  "levelName": "Level 1: The Beginning",
+  "ballSpeed": 5.0,
+  "paddleSpeed": 6.0,
+  "paddleWidth": 120,
+  "background": "#0F2027",
+  "blocksLayout": [
+    "----------",
+    "-GGGGGGGG-",
+    "-YYYYYYYY-",
+    "-RRRRRRRR-",
+    "----------"
+  ]
+}

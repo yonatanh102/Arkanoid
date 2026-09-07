@@ -1,0 +1,16 @@
+{
+  "levelName": "Level 4: The Smiley",
+  "ballSpeed": 6.5,
+  "paddleSpeed": 6.5,
+  "paddleWidth": 100,
+  "background": "forest.jpg",
+  "blocksLayout": [
+    "-YCYCYCYC-",
+    "WW-YGGY-WW",
+    "YYBYYYYBYY",
+    "YGYYOOYYGY",
+    "YY-RRRR-YY",
+    "-Y------Y-",
+    "-YBYBYBYB-"
+  ]
+}

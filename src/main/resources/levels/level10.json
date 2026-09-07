@@ -1,0 +1,16 @@
+{
+  "levelName": "Level 10: Final Fortress",
+  "ballSpeed": 10.0,
+  "paddleSpeed": 9.0,
+  "paddleWidth": 60,
+  "background": "lava.jpg",
+  "blocksLayout": [
+    "RRRRRRRRRRRR",
+    "OOOOOOOOOOOO",
+    "YYYYYYYYYYYY",
+    "GGGGGGGGGGGG",
+    "BBBBBBBBBBBB",
+    "PPPPPPPPPPPP",
+    "CCCCCCCCCCCC"
+  ]
+}

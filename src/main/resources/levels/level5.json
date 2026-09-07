@@ -1,0 +1,14 @@
+{
+  "levelName": "Level 5: The Chessboard",
+  "ballSpeed": 7.0,
+  "paddleSpeed": 7.0,
+  "paddleWidth": 90,
+  "background": "cyne.jpg",
+  "blocksLayout": [
+    "BWBWBWBWBW",
+    "WBWBWBWBWB",
+    "BWBWBWBWBW",
+    "WBWBWBWBWB",
+    "BWBWBWBWBW"
+  ]
+}
