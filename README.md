@@ -52,11 +52,3 @@ mvn test
 - State Management: Uses a Counter class passed by reference to decouple the game logic from the UI.
 
 - Memory Management: Implemented object recycling (paddle size resets instead of recreation) to prevent memory leaks and "ghost" collisions with lingering power-ups.
-
-
-
-start app:
-& "C:\Users\yonat\.vscode\extensions\oracle.oracle-java-26.0.2\nbcode\java\maven\bin\mvn.cmd" clean javafx:run
-
-start test:
-& "C:\Users\yonat\.vscode\extensions\oracle.oracle-java-26.0.2\nbcode\java\maven\bin\mvn.cmd" test
